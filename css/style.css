@@ -4141,13 +4141,13 @@ FOOTER
 -----------------------------------*/
 
 .footer {
-    background: #041e41;
+    background: #f1f2f4;
     padding: 20px 0 0;
     background-position: left bottom;
-    color: #fff;
+    color: #000;
 }
 .contact-info ul li a {
-    color: #fff;
+    color: #000;
 }
 /*.footer .flex-flow{
     flex-flow: row wrap;
@@ -4161,7 +4161,7 @@ FOOTER
 
 .footer .widget .widget-title {
     font-size: 16px;
-    color: #fff;
+    color: #000;
     margin-bottom: 20px;
     text-transform: uppercase;
     font-weight: 600;
@@ -4198,12 +4198,12 @@ FOOTER
 }
 
 .footer .our-service ul li a {
-    color: #fff;
-    font-weight: 600;
+    color: #000;
+    
 }
 
 .footer .our-service ul li a:hover {
-    color: #fff;
+    color: #000;
 }
 
 .footer .widget_social .social a {
@@ -4230,7 +4230,7 @@ FOOTER
 }
 
 .footer .footer-bottom {
-    color: #fff;
+    color: #000;
     margin-top: 30px;
     padding-top: 20px;
 
@@ -7956,8 +7956,8 @@ BLOG PAGE
     position: fixed;
     z-index: 9999;
     right: 10px;
-    bottom: 100px;
-    background-color: #00aeef;
+    bottom: 10px;
+    background-color: #80bc00;
     display: none;
     color: #fff;
     text-align: center;
@@ -9902,6 +9902,7 @@ li.info-pts {
     bottom: 5px;
     right: 0px;
     width: 80px;
+    display: none;
    
 }
 
