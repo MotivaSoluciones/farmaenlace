@@ -114,7 +114,7 @@ h5,
 h6 {
     line-height: 1.3em;
     margin-top: 0;
-    color: #2d3559;
+    color: #000;
 }
 
 h1 {
@@ -1749,7 +1749,7 @@ blockquote.style2:after {
 
 .header.style3 .main-menu > li > a:hover,
 .header.style3 .main-menu > li.active > a {
-    color: #2d3559;
+    color: #80bc00;
     font-weight: 600;
 }
 
@@ -4902,7 +4902,7 @@ FOOTER
     content: '';
     width: 50px;
     height: 2px;
-    background-color: #00aeef;
+    background-color: #80bc00;
     display: block;
     margin: 0 auto;
     margin-top: 5px;
